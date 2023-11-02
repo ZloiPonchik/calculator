@@ -1,0 +1,51 @@
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.AssemblyReference.cache
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\MainWindow.g.cs
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\App.g.cs
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS_MarkupCompile.cache
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS_MarkupCompile.lref
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.exe.config
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.exe
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.pdb
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\App.baml
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\MainWindow.baml
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.g.resources
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.Properties.Resources.resources
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.GenerateResource.cache
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.CoreCompileInputs.cache
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.exe
+C:\Users\adudh\source\repos\Calculator_ViPCS\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.pdb
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.exe.config
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.exe
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.pdb
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.AssemblyReference.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\MainWindow.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\App.g.cs
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS_MarkupCompile.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS_MarkupCompile.lref
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\App.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\MainWindow.baml
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.g.resources
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.Properties.Resources.resources
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.GenerateResource.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.CoreCompileInputs.cache
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.exe
+C:\Users\Zloi_\OneDrive\Рабочий стол\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.pdb
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.exe.config
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.exe
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\bin\Debug\Calculator_ViPCS.pdb
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.AssemblyReference.cache
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.SuggestedBindingRedirects.cache
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\MainWindow.g.cs
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\App.g.cs
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS_MarkupCompile.cache
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS_MarkupCompile.lref
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\App.baml
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\MainWindow.baml
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.g.resources
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.Properties.Resources.resources
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.GenerateResource.cache
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.csproj.CoreCompileInputs.cache
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.exe
+C:\Users\79315\source\repos\calc\Calculator_ViPCS\obj\Debug\Calculator_ViPCS.pdb
